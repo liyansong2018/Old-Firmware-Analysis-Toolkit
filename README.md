@@ -1,6 +1,6 @@
 # Firmware Analysis Toolkit 
 
-**该项目已不再维护**，请移步新版：https://github.com/liyansong2018/firmware-analysis-plus
+**该项目已不再维护**，虽然仍可使用，建议移步新版：https://github.com/liyansong2018/firmware-analysis-plus
 
 ## 对比分析
 
